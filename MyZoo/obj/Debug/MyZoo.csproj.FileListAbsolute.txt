@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\MyZoo\MyZoo\bin\Debug\MyZoo.exe.config
+C:\Users\PC\source\repos\MyZoo\MyZoo\bin\Debug\MyZoo.exe
+C:\Users\PC\source\repos\MyZoo\MyZoo\bin\Debug\MyZoo.pdb
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.Form1.resources
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.Properties.Resources.resources
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.exe
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.pdb
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.MyZoo.resources
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.Simulation.resources
+C:\Users\PC\source\repos\MyZoo\MyZoo\obj\Debug\MyZoo.csprojAssemblyReference.cache
